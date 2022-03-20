@@ -8,4 +8,4 @@ I’ll use for the lock a solenoid and a relay, it depends on your lock system y
 **PARTS**
 So for this project we will need those components, alongside some jump wires, and a power supply of 12V Sorry I didn’t add it here:
 
-![1ch Relay] (https://raw.github.com/Git-Yousfi-Neji/Password-Door-Locking-System-Circuit/main/parts/1.png)
+![1ch Relay] (https://github.com/Git-Yousfi-Neji/Password-Door-Locking-System-Circuit/blob/main/parts/1.png)
