@@ -7,4 +7,5 @@ I’ll use for the lock a solenoid and a relay, it depends on your lock system y
 
 **PARTS**
 So for this project we will need those components, alongside some jump wires, and a power supply of 12V Sorry I didn’t add it here:
-! [1 ch Relay] (parts/1.jpg)
+
+![1ch Relay] (./parts/1.jpg)
