@@ -52,7 +52,7 @@ You'll find the test in pictures below, navigate though them<br />
 <img src="../main/test/11.png?raw=true" ><br />
 <img src="../main/test/12.png?raw=true" ><br />
 
-**SCHEMATICS: **<br />
+**SCHEMATICS**<br />
 **Mosfet + Solenoid wiring**<br />
 <img src="../main/schematics/mosfet_solenoid_wiring.png?raw=true" ><br />
 **Relay wiring**<br />
