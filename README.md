@@ -15,4 +15,4 @@ So for this project we will need those components, alongside some jump wires, an
 <img src="../main/parts/5.png?raw=true" ><br />
 <img src="../main/parts/6.png?raw=true" ><br />
 <img src="../main/parts/7.png?raw=true" ><br />
-<img src="../main/parts/8.png?raw=true title"yyyyyy"" ><br />
+<img src="../main/parts/8.png?raw=true" ><br />
